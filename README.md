@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to My GitHub Playground!🌟</h1>
-<h2>Hey there, I'm Anushka Jain! 👋</h2>
+<h2 align="center">Hey there, I'm Anushka Jain! 👋</h2>
 <h3 align="center">Crafting the Future with AI and Full Stack Wizardry</h3>
 
 <p>Greetings! I'm Anushka Jain, an AI Data Engineer and Full Stack Developer with a fervent passion for pioneering technology. My journey revolves around exploring the limitless possibilities of AI and weaving them seamlessly into powerful full stack applications.</p>
