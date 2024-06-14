@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anushka jaim</h1>
-<h3 align="center">A passionate full stack developer and AI Data Engineer from India</h3>
+<h1 align="center">Welcome to My GitHub Playground!🌟</h1>
+<h2>Hey there, I'm Anushka Jain! 👋</h2>
+<h3 align="center">Crafting the Future with AI and Full Stack Wizardry</h3>
+
+<p>Greetings! I'm Anushka Jain, an AI Data Engineer and Full Stack Developer with a fervent passion for pioneering technology. My journey revolves around exploring the limitless possibilities of AI and weaving them seamlessly into powerful full stack applications.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkajain-7&label=Profile%20views&color=0e75b6&style=flat" alt="anushkajain-7" /> </p>
 
