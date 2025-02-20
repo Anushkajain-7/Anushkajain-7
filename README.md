@@ -35,18 +35,10 @@
   <a href="https://www.linkedin.com/in/anushkajain1114/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:anushkajain1114@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"  />
   </a>
   <a href="https://github.com/Anushkajain-7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Anushkajain-7/Anushkajain-7/output/snake.svg" alt="Snake animation" />
-
-###
