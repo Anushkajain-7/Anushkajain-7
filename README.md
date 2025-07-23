@@ -1,44 +1,102 @@
-<h2 align="left">Hi 👋! My name is Anushka Jain and I'm an AI & Data Engineering Enthusiast.</h2>
+<h1 align="center">Hi 👋, I'm Anushka Jain</h1>
+<h3 align="center">🚀 A Passionate Full Stack Developer | AI and Data Engineer | ui/ux desining enthusiast </h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=2nd+Year+AI+%2B+Data+Engineering+Student;Exploring+Full-Stack+Dev+and+ML;Educating+Gen+Z+via+DAA+and+Content+Creation" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushkajain-7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anushkajain-7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 👩‍💻 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- 🎓 B.Tech CSE (AI & Data Engineering) @ Lovely Professional University  
+- 🤝 In collaboration with **Futurence Technologies**
+- 🌐 Exploring Full Stack Development and Generative AI
+- 💡 Innovation is my jam – love building projects that blend creativity with logic
+- 💬 Ask me about `Python`, `DAA`, `AI`, `HTML`, 'DSA', `Research`, 'Java', 'CSS', 'Bootstrap', 'Operating System' , 'JavaScript', 'Flutter', 'Database', 'Nosql', 'sql', 'cloud computing'
+- 📫 Reach me at: **anushkajain1114@gmail.com**  
+- 🔗 LinkedIn: (https://www.linkedin.com/in/anushkajain1114/)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+### 🛠️ Tech Stack & Tools
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode,figma,docker,linux,postman" />
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/anushkajain1114/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
-  </a>
-  <a href="mailto:anushkajain1114@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"  />
-  </a>
-  <a href="https://github.com/Anushkajain-7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo"  />
-  </a>
-</div>
+---
+
+### 🚀 Recent Projects
+
+- 🎮 **Stone-Paper-Scissors Game** using Tkinter with animations  
+- 🧮 **Tkinter Calculator** with stylish UI  
+- 📊 **EDA Project on Loan Dataset** – Multivariate analysis, nulls, outliers  
+- 🤖 **AI HealthChat Assistant (DoctoBot)** – Detect tone & energy markers via voice  
+- 🌐 **Static Website from Scratch** – Certified by NXTWAVE CCBP 4.0  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkajain&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkajain&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkajain&layout=compact&theme=radical" height="180" />
+</p>
+
+---
+
+### 🏆 Open Source Love
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anushkajain&theme=radical&margin-w=15&no-frame=true" />
+</p>
+
+---
+
+### 🌱 Certifications & Achievements
+
+- ✅ **Algorithms on Strings** – Coursera  
+- ✅ **Build Your Own Static Website** – NXTWAVE  
+- ✅ **Introduction to Hardware & OS** – IBM via Coursera  
+- ✅ **Digital Systems** – Universitat Autònoma de Barcelona  
+- ✅ **Logic Building & Programming** – LPU Certification  
+- 💥 Attended **Generative AI Mega Workshop 2.0** & **Aspire For Her AI Summit**  
+
+---
+
+### 🎤 Talks & Content Creation
+
+- 📢 Teaching DAA to Gen Z in engaging ways  
+- 🎥 Creating YouTube-style explainer content using free tools  
+- 💡 Motto: “Learn it. Build it. Share it.”
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/anushka-jain" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/anushkajain"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:anushkajain@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 💬 Dev Quote
+
+> “Creativity + Code = Magic. Stay curious, stay building!” – Anushka Jain
+
+---
+
+### 📉 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkajain&theme=dracula" alt="GitHub Activity Graph" />
+</p>
+
+---
