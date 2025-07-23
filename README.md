@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Full Stack Developer | AI and Data Engineer | ui/ux desining enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=2nd+Year+AI+%2B+Data+Engineering+Student;Exploring+Full-Stack+Dev+and+ML;Educating+Gen+Z+via+DAA+and+Content+Creation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&center=true&vCenter=true&width=440&lines=3rd+Year+AI+%2B+Data+Engineering+Student;Exploring+Full-Stack+Dev+and+Designing;" alt="Typing SVG" />
 </p>
 
 ---
@@ -40,23 +40,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkajain&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkajain&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushkajain-7&show_icons=true&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkajain&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkajain-7&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
 
-### 🏆 Open Source Love
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anushkajain&theme=radical&margin-w=15&no-frame=true" />
-</p>
-
----
 
 ### 🌱 Certifications & Achievements
 
@@ -80,9 +72,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/anushka-jain" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/anushkajain"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:anushkajain@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anushkajain1114/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Anushkajain-7"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:anushkajain1114@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -96,7 +88,7 @@
 ### 📉 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkajain&theme=dracula" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushkajain-7&theme=dracula" alt="GitHub Activity Graph" />
 </p>
 
 ---
