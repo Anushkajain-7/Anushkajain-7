@@ -13,7 +13,7 @@
 - 🤝 In collaboration with **Futurence Technologies**
 - 🌐 Exploring Full Stack Development and Generative AI
 - 💡 Innovation is my jam – love building projects that blend creativity with logic
-- 💬 Ask me about `Python`, `DAA`, `AI`, `HTML`, 'DSA', `Research`, 'Java', 'CSS', 'Bootstrap', 'Operating System' , 'JavaScript', 'Flutter', 'Database', 'Nosql', 'sql', 'cloud computing'
+- 💬 Ask me about `Python`, `DAA`, `AI`, `HTML`, `DSA`, `Research`, `Java`, `CSS`, `Bootstrap`, `Operating System` , `JavaScript` , `Flutter`, `Database`,  `Nosql`, `sql`, `cloud computing`
 - 📫 Reach me at: **anushkajain1114@gmail.com**  
 - 🔗 LinkedIn: (https://www.linkedin.com/in/anushkajain1114/)
 
